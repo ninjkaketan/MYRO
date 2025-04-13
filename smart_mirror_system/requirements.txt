@@ -1,0 +1,8 @@
+
+whisper
+sounddevice
+numpy
+pymongo
+transformers
+torch
+EOL
